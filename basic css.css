@@ -3,6 +3,9 @@ text-align:left;
 font-size: 20px;
 }
 img{
-height: 300px;
+height: 100px;
 width: 350px;
+}
+small{
+    background-color: red;
 }
